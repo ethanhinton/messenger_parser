@@ -1,4 +1,4 @@
-# messenger_parser
+# Messenger Parser
 A program to parse Facebook Messenger data from the JSON download folder structure and present in a pandas DataFrame.
 
 ## Using the Code
