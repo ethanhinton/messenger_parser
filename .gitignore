@@ -1,2 +1,4 @@
 /messages
 .DS_Store
+analysis.ipynb
+__pycache__
